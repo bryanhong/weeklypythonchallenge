@@ -1,0 +1,29 @@
+len(s)                 s.__len__()
+
+s[i]                   s.__getitem__(i)
+
+s(a, b)                s.__call__(a, b)
+
+s in t                 t.__contains__(s)
+
+s + t                  s.__add__(t)
+                           if NotImplemented
+                       t.__radd__(s)
+
+
+s / t                  s.__div__(t)
+                           if NotImplemented
+                       t.__rdiv(s)
+
+for x in s:            s.__iter__()
+                           if not found
+                       s.__getitem__(0), ... IndexError
+
+print s                s.__str__()
+
+>>> s                  s.__repr__()
+
+s < t                  s.__lt__(t)
+                            if not found
+                       s.__cmp__(t)         ==> -1, 0, 1
+                       

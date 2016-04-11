@@ -1,0 +1,29 @@
+English composition
+-------------------
+Sentence is a complete thought.
+
+
+The beautiful non-sentence.                        # Sentence fragment
+
+The beautiful sentence actually has a verb.        # Sentence -- complete thought
+
+                                                   # Run-on sentence --> Paragraph.
+The beautiful sentence actually has a verb.
+I'm glad Raymond wrote it on this rainy Thursday after we studied namedtuples.
+This sentence which has more than once verb and clause.
+That makes it awesome and makes me love Python even more.
+
+
+mov ax, marbles
+add ax, ax
+mov marbles, ax
+
+Virtues:  clear, easy to teach, type in 5 seconds, easy to read, unequivocal
+Vice:  sub-atomic          atoms == sentences == complete thoughts
+
+marbles *= 2;
+
+Virtue:  atomic == double the number of marbles
+Vices:  much harder to teach, equivocal
+
+arr[++i]->marbles *= 2;

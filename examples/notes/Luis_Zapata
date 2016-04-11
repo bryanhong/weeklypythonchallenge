@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:4.0
+N:Zapata;Luis;;;
+FN:Luis Zapata
+ORG:Sunmead Raisin Corp
+TITLE:VP Grape Sales
+TEL;TYPE=work,voice;VALUE=uri:tel:559-555-2301
+ADR;TYPE=work;LABEL="125 Tasman, San Jose, CA 95134"
+EMAIL:luis@example.com
+REV:20160405T103923Z
+END:VCARD

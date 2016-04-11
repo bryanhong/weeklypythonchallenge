@@ -1,0 +1,174 @@
+Natural English Language -- Regular Expressions, NLTK
+------------------------------------------------------
+Our team history:
+* On 3/14/2013, we scored 14 points and lost the game.
+* On 6/2/2013, we scored 15 points and lost the game.
+* On 9/15/2013, we scored only 1 point and won the game.
+Go figure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTML -- BeautifulSoup or HTML5Lib or Regex
+------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+<title> Family Members </title>
+<link rel="stylesheet" media="screen" href="somestyle.css">
+</head>
+<body>
+<h2> Members of the <em> Hettingers </em> family </h2>
+<hr>
+<ol>
+  <li> Raymond </li>
+  <li> Rachel </li>
+  <li> Matthew </li>
+  <li> TBD </li>
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Structured text, column-aligned -- Slicing or str.split()
+------------------------------------------------------
+GigabitEthernet0/7/0/22        unassigned      Down                  Down
+GigabitEthernet0/7/0/23        unassigned      Down                  Down
+GigabitEthernet0/7/0/24        unassigned      Down                  Down
+GigabitEthernet0/7/0/25        unassigned      Down                  Down
+GigabitEthernet0/7/0/26        unassigned      Down                  Down
+GigabitEthernet0/7/0/27        unassigned      Down                  Down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delimited text (CSV, Tab delimited) -- csv module
+------------------------------------------------------
+Thomas,Mary,Sr. Associate Raisin Design,mary@example.com,559-555-2300
+Davis,Harold,Chief Raisin Picker,harold@example.com,559-555-2318
+Masterson,Martin,Asst Raisin Smusher,martin@example.com,559-555-2348
+Jones,David,Grape Ager,david@example.com,559-555-2379
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JSON -- json module
+---------------------------------------------------------
+{
+    "bk103": {
+        "description": "After the collapse of a nanotechnology \n      society in England, the young survivors lay the \n      foundation for a new society.", 
+        "title": "Maeve Ascendant", 
+        "price": 5.95, 
+        "author": "Corets, Eva", 
+        "publish_date": "2000-11-17", 
+        "genre": "Fantasy"
+    }, 
+    "bk102": {
+        "description": "A former architect battles corporate zombies, \n      an evil sorceress, and her own childhood to become queen \n      of the world.", 
+        "title": "Midnight Rain", 
+        "price": 5.95, 
+        "author": "Ralls, Kim", 
+        "publish_date": "2000-12-16", 
+        "genre": "Fantasy"
+    }
+}
+
+
+
+
+
+
+
+
+XML -- DOM SAX ElementTree -> LXML
+----------------------------------------------------------
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+   <book id="bk101">
+      <author>Gambardella, Matthew</author>
+      <title>XML Developer's Guide</title>
+      <genre>Computer</genre>
+      <price>44.95</price>
+      <publish_date>2000-10-01</publish_date>
+      <description>An in-depth look at creating applications 
+      with XML.</description>
+   </book>
+   <book id="bk102">
+      <author>Ralls, Kim</author>
+      <title>Midnight Rain</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2000-12-16</publish_date>
+      <description>A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.</description>
+   </book>
+</catalog>

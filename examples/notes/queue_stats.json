@@ -1,0 +1,74 @@
+[
+ {
+  "Total packets": 133728, 
+  "ident": "8021qav-4q8q-in-q-default", 
+  "Total bytes": 8580832, 
+  "mode": "Receive"
+ }, 
+ {
+  "Total packets": 5563074, 
+  "ident": "8021qav-4q8q-in-q1", 
+  "Total bytes": 445873169, 
+  "mode": "Receive"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-in-q4", 
+  "Total bytes": 0, 
+  "mode": "Receive"
+ }, 
+ {
+  "Total packets": 1410030261677, 
+  "ident": "8021qav-4q8q-in-q3", 
+  "Total bytes": 177663812949882, 
+  "mode": "Receive"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q4", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q5", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q6", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q7", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q1", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q2", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 0, 
+  "ident": "8021qav-4q8q-out-q3", 
+  "Total bytes": 0, 
+  "mode": "Transmit"
+ }, 
+ {
+  "Total packets": 478494546, 
+  "ident": "8021qav-4q8q-out-q-default", 
+  "Total bytes": 50016709541, 
+  "mode": "Transmit"
+ }
+]

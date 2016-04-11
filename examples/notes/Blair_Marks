@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:4.0
+N:Marks;Blair;;;
+FN:Blair Marks
+ORG:Sunmead Raisin Corp
+TITLE:VP Investor Relations
+TEL;TYPE=work,voice;VALUE=uri:tel:559-555-6513
+ADR;TYPE=work;LABEL="125 Tasman, San Jose, CA 95134"
+EMAIL:blair@example.com
+REV:20160405T103923Z
+END:VCARD
